@@ -1,0 +1,110 @@
+.projects {
+    text-align: center;
+    padding: 50px;
+}
+
+.projectsheader {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.projectsheader p {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.projectsheader .arrow {
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+.projectsgrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.projectbox {
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
+
+.projectbox img {
+    width: 200px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.linkbutton1 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+
+  .linkbutton2 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+
+  .linkbutton3 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+
+  .linkbutton4 {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
